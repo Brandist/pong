@@ -1,4 +1,4 @@
-# pong
+# Pong
 
-pong spel in unity!
-nog in making
+Pong spel in unity!
+Nog in making.
